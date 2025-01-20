@@ -1,0 +1,16 @@
+fruits=[] #  list fruits is defined
+f1=input("enter first fruit name :")
+fruits.append(f1)    #this will add the fruit into the list
+f2=input("enter second fruit name :")
+fruits.append(f2)      #this will add the fruit into the list
+f3=input("enter third fruit name :")
+fruits.append(f3)
+f4=input("enter fourth fruit name :")
+fruits.append(f4)
+f5=input("enter fifth fruit name :")
+fruits.append(f5)
+f6=input("enter sixth fruit name :")
+fruits.append(f6)
+f7=input("enter seventh fruit name :")
+fruits.append(f7)
+print("fruits :",fruits)  #here we print the list
